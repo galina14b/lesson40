@@ -67,7 +67,7 @@ body {
 }
 
 .card__face_back {
-    background-image: url("/img/cardBack.jpg");
+    background-image: url("img/cardBack.jpg");
     transform: rotateY(180deg);
 }
 
